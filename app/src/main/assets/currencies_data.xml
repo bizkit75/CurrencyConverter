@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+    <currency>
+        <id>0</id>
+        <name>EUR</name>
+        <value>1</value>
+    </currency>
+    <currency>
+        <id>1</id>
+        <name>GBP</name>
+        <value>0.7289</value>
+    </currency>
+    <currency>
+        <id>2</id>
+        <name>US</name>
+        <value>1.12974</value>
+    </currency>
+    <currency>
+        <id>3</id>
+        <name>AUS</name>
+        <value>1.57155</value>
+    </currency>
+    <currency>
+        <id>4</id>
+        <name>CAN</name>
+        <value>1.49167</value>
+    </currency>
+    <currency>
+        <id>5</id>
+        <name>YEN</name>
+        <value>136.156</value>
+    </currency>
+</currencies>
